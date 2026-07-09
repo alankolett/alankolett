@@ -38,14 +38,18 @@ I'm a **B.Tech CSIT (Cybersecurity)** student at **Symbiosis Skills & Profession
 | Project | Description | Stack |
 |---|---|---|
 | **FinSense AI** | AI-powered financial assistant using Retrieval-Augmented Generation (RAG) to provide grounded, hallucination-resistant responses from structured financial data. | `FastAPI` `Python` `Vector DBs` `React` |
-| **WiseUp (PocketAI)** | Budgeting application MVP focused on real-time visualization and accessible financial tracking for the Indian middle-class demographic. | `React` `Node.js` `MongoDB` |
-| **Neuro-Net (PhantomGrid)** | AI-driven honeypot system built for Project-Based Learning to log and analyze incoming network threat vectors. | `Python` `FastAPI` `Scikit-Learn` |
-| **MediQueue** | Smart healthcare queue management platform improving patient flow. | `React` `TypeScript` `PostgreSQL` |
-| **PhishGuard Pro** | AI-assisted phishing detection and awareness platform. | `Python` `Security` `ML` |
+| **MediQueue** | Real-time patient queue management platform for clinics and hospitals — lets receptionists manage patient flow, gives patients live queue visibility, and keeps everything in sync. | `TypeScript` `React` `PostgreSQL` |
+| **Asset-Hunter** | Automated, AI-powered digital rights threat intelligence platform built for Solution Challenge 2026. Scrapes suspected piracy URLs and uses multimodal AI (Gemini vision + NLP) to evaluate visual and contextual signals for threat detection. | `TypeScript` `React` `Node.js` `Gemini API` `Supabase` |
+| **TalentGraph** | Candidate-ranking AI system with a retrieval + reranking pipeline, feature engineering, and an evaluation suite — built with a FastAPI backend and Dockerized services (Qdrant, Ollama, optional Claude support). | `Python` `FastAPI` `Docker` `Qdrant` |
+| **Iris-3.0** | AI-assisted project combining a Python backend with a TypeScript frontend. | `Python` `TypeScript` |
+| **PhishGuard Pro** | AI-assisted phishing detection and awareness platform. | `TypeScript` `Security` `ML` |
 
 Repositories:
 - https://github.com/alankolett/FinSense-AI
 - https://github.com/alankolett/MediQueue
+- https://github.com/alankolett/Asset-Hunter
+- https://github.com/alankolett/TalentGraph
+- https://github.com/alankolett/Iris-3.0
 - https://github.com/alankolett/PhishGuard-Pro
 
 *(Detailed architecture diagrams and screenshots live in each project's own repository README.)*
@@ -75,8 +79,6 @@ Kubernetes · OWASP Top 10 · System Design · Agentic AI · RAG · DevSecOps ·
 ---
 
 ## 📊 Metrics & Activity
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/alankolett?theme=dark&font=Fira%20Code&ext=activity)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alankolett&theme=tokyo-night)
 
