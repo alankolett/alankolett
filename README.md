@@ -83,11 +83,11 @@ Kubernetes · OWASP Top 10 · System Design · Agentic AI · RAG · DevSecOps ·
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alankolett&theme=tokyo-night)
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=alankolett&show_icons=true&theme=tokyonight&bg_color=000000&title_color=7AA2F7&icon_color=7AA2F7&border_radius=10" width="49%" />
+<img src="https://github-readme-stats-rho-two-99.vercel.app/api?username=alankolett&show_icons=true&theme=tokyonight&bg_color=000000&title_color=7AA2F7&icon_color=7AA2F7&border_radius=10" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alankolett&theme=tokyonight&background=000000&ring=7AA2F7&fire=7AA2F7&currStreakNum=ffffff&border_radius=10" width="49%" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alankolett&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-rho-two-99.vercel.app/api/top-langs/?username=alankolett&layout=compact&theme=tokyonight)
 
 **🐍 Contribution Snake**
 
