@@ -584,3 +584,4 @@ Your LinkedIn currently lists all of these certifications, including CLLMSP and 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,45:0B1727,70:06111C,100:03060B&height=100&section=footer" width="100%"/>
 
 </div>
+
