@@ -211,11 +211,21 @@ operating_mode:
 
 <div align="center">
 
-```text id="q4p1dj"
-NMAP        · BURP SUITE        · WIRESHARK
-GHIDRA      · METASPLOIT        · KALI LINUX
-OWASP       · RECON             · WEB SECURITY
-```
+<table>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/nmap/FFFFFF" width="42"/><br/><sub>Nmap</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/burpsuite/FFFFFF" width="42"/><br/><sub>Burp Suite</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/wireshark/FFFFFF" width="42"/><br/><sub>Wireshark</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/ghidra/FFFFFF" width="42"/><br/><sub>Ghidra</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/metasploit/FFFFFF" width="42"/><br/><sub>Metasploit</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/kalilinux/FFFFFF" width="42"/><br/><sub>Kali Linux</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/owasp/FFFFFF" width="42"/><br/><sub>OWASP</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/bugcrowd/FFFFFF" width="42"/><br/><sub>Recon</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/securityscorecard/FFFFFF" width="42"/><br/><sub>Web Security</sub></td>
+</tr>
+</table>
 
 </div>
 
